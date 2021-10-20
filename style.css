@@ -1,0 +1,445 @@
+.background{
+    width: 100%;
+    height: 733px;
+    background-color: #d5dbd8;
+}
+body{
+    margin: 0%;
+    background-color: #d5dbd8;
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, "Lucida Grande", Arial, Ubuntu, Cantarell, "Fira Sans", sans-serif;
+}
+.background-div-1{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    background-color: #4f9788;
+}
+.background-div-2{
+    width: 100%;
+    height: 625px;
+    position: relative;
+    background-color: #d5dbd8;
+
+
+}
+.main-interface{
+    width: 83%;
+    height: 665px;
+    margin-top: -700px;
+    margin-left: 136px;
+    position: absolute;
+}
+.left-div{
+    width: 30%;
+    height: 665px;
+    float: left;
+    background-color: rgb(253, 254, 255);
+    border: solid;
+    border-color: #dadada;
+    border-width: 1px;
+}
+.right-div{
+    float: left;
+    width: 69%;
+    height: 665px;
+}
+.left-div-1{
+    width: 100%;
+    height: 48px;
+    background: #ededed;
+}
+.div-1-row-1{
+    width: 14%;
+    height: 44px;
+    float: left;
+}
+.pic{
+    width: 83%;
+    height: 43px;
+    border-radius: 50%;
+}
+.photo{
+    border-radius: 53%;
+    width: 37px;
+    margin-left: 12px;
+    margin-top: 4px;
+}
+.other-items{
+    margin-left: 173px;
+    width: 391%;
+    margin-top: -37px;
+    height: 48px;
+}
+.for-circle-icon{
+    width: 18%;
+    height: 46px;
+    float: left;
+    margin-left: 61px;
+}
+.for-messege-icon{
+    width: 18%;
+    height: 46px;
+    float: left;
+    margin-left: 16px;
+}
+.for-option-icon{
+    float: left;
+    width: 12%;
+    margin-left: 11px;
+    height: 45px;
+}
+.fa-circle-notch{
+    margin-top: 9px;
+    font-size: 19px;
+    color: #51585c;
+}
+.fa-comment-alt{
+    font-size: 19px;
+    margin-top: 9px;
+    color: #51585c;
+
+}
+.fa-ellipsis-v{
+    font-size: 19px;
+    margin-top: 9px;
+    color: #51585c;
+}
+.div-2-row-2 {
+    width: 100%;
+    height: 43px;
+    background-color: #f6f6f6;
+}
+.search-icon{
+    margin-left: 8px;
+    width: 31px;
+    height: 26px;
+    margin-top: 7px;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    color: #ffffff;
+    border: none;
+    background-color: #ffffff;
+}
+.input{
+    margin-left: -5px;
+    height: 24px;
+    width: 307px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background-color: #ffffff;
+    border: none;
+}
+
+.fa-search {
+    color: #51585c;
+    font-size: 10px;
+}
+.div-3-row-3 {
+    width: 100%;
+    height: 63px;
+    background: #ffffff;
+
+}
+.picture-part {
+    width: 10%;
+    margin-left: 13px;
+    height: 30px;
+    margin-top: 9px;
+    float: left;
+}
+.data-part{
+    float: left;
+    width: 64%;
+    margin-left: 20px;
+    height: 37px;
+    margin-top: 12px;
+
+}
+.time-part{
+    float: left;
+    width: 43px;
+    height: 29px;
+    margin-top: 13px;
+    margin-left: 7px;
+}
+.set-image{
+
+        width: 102%;
+        height: 38px;
+        border: 61%;
+        border-radius: 50%;
+        margin-top: 1px;
+        margin-left: -2px;
+}
+.name-of-persons{
+    font-size: 15px;
+}
+.tic-icon{
+    float: left;
+    width: 10%;
+    height: 13px;
+    margin-top: -4px;
+    color: #7d7d7d;
+}
+.show-messege{
+    float: left;
+    width: 84%;
+    margin-left: 2px;
+    height: 12px;
+    margin-top: -3px;
+    color: #928f8f;
+
+}
+.fa-check-double{
+    font-size: 14px;
+    margin-left: 4px;
+    font-size: 12px;
+}
+.previous-messege{
+    margin-left: 5px;
+    
+    font-size: 12px;
+
+}
+
+.info-day{
+    font-size: 11px;
+    color: #979090;
+}
+
+
+.line1{
+    width: 17%;
+    float: left;
+    height: 1px;
+    background-color: white;
+
+}
+
+.line2{
+    width: 81%;
+    float: left;
+    background-color: #f4f4f4 ;
+    height: 1px;
+}
+.right-div-1 {
+    width: 100%;
+    border: solid;
+    height: 43px;
+}
+.right-row-2-div-2{
+    width: 100%;
+    height: 557px;
+    background-image: url(whatsapp-background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    background-color: #e5ddd5;
+    border: solid;
+    border-color: #dadada;
+    border-width: 1px;
+}
+.right-row-1-div-1{
+    width: 100%;
+    height: 43px;
+    background-color: #ededed;
+    border: solid;
+    border-color: #dadada;
+    border-width: 1px;
+}
+
+.profile-and-name {
+    width: 17%;
+    margin-left: 26px;
+    height: 40px;
+    float: left;
+    margin-top: 4px;
+}
+
+.profile-in-rightside{
+    width: 30%;
+    height: 37px;
+    float: left;
+
+    border-radius: 50%;
+    height: 36px;
+    width: 26%;
+}
+.name-after-profile{
+    width: 53%;
+    margin-left: 63px;
+    height: 19px;
+    margin-top: 9px;
+}
+.set-image-rightside{
+    border-radius: 50%;
+    width: 37px;
+}
+.name-of-individual{
+    color: #0f0f0f;
+    font-size: 13px;
+}
+.right-div-1-search-and-option-icon{
+    width: 16%;
+    height: 40px;
+    margin-left: 699px;
+}
+.search-icon-div-right{
+    width: 28%;
+    height: 37px;
+    float: left;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 39px;
+
+}
+.option-icon-div-right{
+    width: 28%;
+    height: 37px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+.new-fa-search{
+    font-size: 18px;
+}
+.new-fa-ellipsis-v{
+    font-size: 18px;
+    color: #51585c;
+}
+.right-row-3-div-3{
+    width: 100%;
+    border: solid;
+    height: 57px;
+}
+.day-details {
+    width: 100%;
+    height: 27px;
+    margin-top: 485px;
+}
+.text1{
+    width: 7%;
+    height: 23px;
+    margin-left: 405px;
+    border-radius: 4px;
+    background-color: #e1f2fb;
+}
+.text-in-span{
+    margin-left: 11px;
+    font-size: 13px;
+    margin-top: 9px;
+}
+.other-details{
+    width: 100%;
+    height: 39px;
+}
+element.style {
+    width: 88%;
+    margin-left: 46px;
+    height: 23px;
+    margin-top: 5px;
+}
+.encryption-info{
+    width: 80%;
+    margin-left: 76px;
+    height: 19px;
+    margin-top: 7px;
+    background-color: #fdf3c5;
+    border-radius: 4px;
+}
+.lock-icon{
+    width: 3%;
+    height: 15px;
+    float: left;
+    background-color: #fdf3c5;
+    margin-left: 17px;
+}
+.text-after-lock-icon{
+    float: left;
+    width: 93%;
+    margin-left: 7px;
+    height: 15px;
+
+}
+.fa-lock {
+    font-size: 10px;
+    margin-left: 3px;
+    color: #8b856c;
+}
+.info-for-user{
+    font-size: 11px;
+    color: #4e4b41;
+}
+.right-side-last-div{
+    width: 100%;
+    height: 58px;
+    background-color: #f0f0f0;
+    border: solid;
+    border-color: #f0f0f0;
+}
+
+.div-1-last-row{
+    width: 10%;
+    margin-left: 9px;
+    height: 32px;
+    float: left;
+    margin-top: 19px;
+
+}
+.div-2-last-row{
+    float: left;
+    width: 85%;
+    margin-left: -14px;
+    height: 34px;
+    margin-top: 4px;
+    margin-top: 11px;
+
+}
+.div-3-last-row{
+    float: left;
+    width: 21px;
+    height: 24px;
+    margin-top: 17px;
+    margin-left: 11px;
+
+}
+.smile-icon{
+    width: 36%;
+    height: 28px;
+    float: left;
+    
+}
+.attach-icon{
+    width: 36%;
+    float: left;
+    margin-left: 30px;
+    margin-top: -28px;
+    height: 29px;
+}
+.fa-smile{
+    font-size: 21px;
+    color: #51585c;
+}
+.fa-paperclip{
+    font-size: 21px;
+    color: #51585c;
+}
+.input-box{
+    width: 98%;
+    height: 36px;
+    border-radius: 47px;
+    background-color: #ffffff;
+    border: none;
+}
+.for-audio-icon{
+    width: 40%;
+    height: 21px;
+    margin-left: 3px;
+}
+.resize-mic-icon{
+    font-size: 21px;
+    color: #51585c;
+}
+    
+::placeholder { 
+    color: #9a9a9a;
+  }
