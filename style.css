@@ -23,10 +23,11 @@ body{
 
 }
 .main-interface{
+    
     width: 83%;
     height: 665px;
-    margin-top: -670px;
-    margin-left: 136px;
+    margin-top: -667px;
+    margin-left: 128px;
     position: absolute;
 }
 .left-div{
